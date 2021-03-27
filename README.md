@@ -1,5 +1,6 @@
 
 <div align = "center">
+  <h2>Hello and welcome to my GitHub! Enjoy your stay</h2>
   <img src="https://github.com/Taggagii/Taggagii/blob/main/Ordering%20a%20tab%20%E2%80%94%20Simpsons.gif")/>
   <p>If you like to read for a long time, tear your hair out, and you have a windows computer, then I recommend checking out my C-Games repo</p>
   <p>Otherwise, take a look around to see if you find anything that's of use to you.</p>
