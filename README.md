@@ -1,5 +1,7 @@
 
 <div align = "center">
-  <h3>There are many things I do. Writing cool things is not one of them</h3>
   <img src="https://github.com/Taggagii/Taggagii/blob/main/Ordering%20a%20tab%20%E2%80%94%20Simpsons.gif")/>
- </div>
+  <p>If you like to read for a long time, tear your hair out, and you have a windows computer, then I recommend checking out my C-Games repo</p>
+  <p>Otherwise, take a look around to see if you find anything that's of use to you.</p>
+  <p>My favorite ones are my sorting algorithm grapher, my github website, and my grade 12 full-stack final for CS named "web-application" (which is currently private if you cannot find it)</p>
+</div>
