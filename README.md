@@ -1,4 +1,3 @@
-
 <div align = "center">
   <h2>Hello and welcome to my GitHub! Enjoy your stay</h2>
   <h3>Check out my <a href = "https://taggagii.github.io/" target = "_blank">Website</a><h3>
