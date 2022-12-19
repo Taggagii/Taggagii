@@ -11,4 +11,4 @@
 </p>
 <br>
 
-[![Taggagii's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Taggagii&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://taggagii.github.io)
+<!-- [![Taggagii's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Taggagii&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://taggagii.github.io) -->
