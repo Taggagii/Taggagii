@@ -1,4 +1,6 @@
 <div align = "center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taggagii&label=Profile%20views&color=0e75b6&style=flat" alt="Taggagii" /> </p>
+  
   <h2>Hello and welcome to my GitHub! Enjoy your stay</h2>
   <h3>Check out my <a href = "https://taggagii.github.io/" target = "_blank">Github Pages Website</a><h3>
 
